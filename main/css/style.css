@@ -1,0 +1,364 @@
+body{
+	background-color: #191919;
+}
+
+	h1.a{
+		color: #ffffff;
+		font-size: 70px;
+		font-weight: bolder;
+		padding-top: 20px;
+		padding-left: 44%;
+	}
+
+	p.a{
+		color: #d3d3d3;
+		font-size: 20px;
+	}
+
+
+
+
+
+
+	div#content div{
+		display: inline-block;
+		text-decoration: none;
+	}
+
+		div#content div.content{
+				background-color: #111111;
+				width: 100%;
+		}
+
+			div#content div.nav{
+				background-color: ;
+				vertical-align: top;
+			}
+
+
+				nav ul li a.menu{
+					color: #ffffff;
+					font-size: 45px;
+					text-decoration: none;
+				}
+
+				nav ul li a.current{
+					color: #7d0606;
+					font-size: 45px;
+					text-decoration: none;
+				}
+
+				nav ul li:hover a.menu{
+					color: #8d8d8d;
+					font-size: 45px;
+					text-decoration: none;
+					transition: 400ms all;
+				}
+
+
+			div#content div.content div.text div.cont, p.text{
+				margin: 50px;
+				color: #ffffff;
+				font-size: 22px;
+			}
+
+			div#content div.content div.text div.cont, p.project{
+				margin: 70px;
+				color: #ffffff;
+				font-size: 55px;
+			}
+
+			div#content div.content div.text div.cont div.project, a.fuseeinator{
+				margin: 50px;
+			}
+
+			div#content div.content div.text p.info{
+				margin: 20px;
+				color: #ffffff;
+				font-size: 15px;
+			}
+
+			div#content div.content div.text p.probleme{
+				margin: 40px;
+				color: #ffffff;
+				font-size: 60px;
+			}
+
+			div#content div.content div.text p.probleme{
+				margin: 50px;
+			}
+
+
+			div#content div.content div.line{
+				margin: 40px;
+				background-color: #555555;
+			}
+
+
+
+			div#content div.yt{
+				background-color: #0e0e0e;
+				vertical-align: top;
+				display: inline-block;
+				margin: 40px;
+
+			}
+
+			div#content div.cont{
+				vertical-align: top;
+			}
+
+			div#content div.cont div{
+				display: list-item;
+				margin: 10px;
+			}
+
+				div#content div.content div.cont div.yt div{
+					display: inline-block;
+				}
+
+				div#content div.content div.cont div.yt div.iframeyt, iframe{
+					vertical-align: top;
+					margin: 20px;
+				}
+
+				div#content div.content div.cont div.yt div.titreyt, p{
+					color: #ffffff;
+					font-size: 55px;
+					margin: 20px;
+					text-decoration: none;
+				}
+
+
+			div#content div.content div.cont div.twitter{
+				background-color: #0e0e0e;
+			}
+
+
+			div#content div.content div.cont div.twitter div{
+				background-color: #0e0e0e;
+				vertical-align: top;
+				display: inline-block;
+				margin: 20px;
+
+			}
+
+				div#content div.content div.cont div.twitter div.tl, a{
+					vertical-align: top;
+					margin: 20px;
+				}
+
+				div#content div.content div.cont div.twitter div.titretw, p{
+					color: #ffffff;
+					font-size: 55px;
+					margin: 20px;
+				}
+
+
+
+			div#content div.content div.liens{
+				vertical-align: top;
+				margin: 40px;
+			}
+
+
+			div#content div.content div.liens div.titrelink, p.titlelink{
+				vertical-align: top;
+				font-size: 55px;
+				margin: 40px;
+				text-decoration: none;
+			}
+
+
+
+
+			div#content div.content div.text{
+				background-color: ;
+				vertical-align: top;
+			}
+
+
+		div#content div.content div.lien div.titrelink, p.link{
+		color: #ffffff;
+		font-size: 35px;
+		text-decoration: none;
+		}
+
+		div#content div.content div.liens div{
+			text-decoration: none;
+			vertical-align: top;
+			display: list-item;
+			margin: 20px;
+		}
+		div#content div.content div.liens div.link div{
+			text-decoration: none;
+			vertical-align: top;
+			display: list-item;
+		}
+
+		div#content div.content div.liens div.link div.discord{
+			background-color: #0e0e0e;
+			text-decoration: none;
+			vertical-align: top;
+			margin: 40px;
+			padding-top: 10px;
+		}
+
+		div#content div.content div.liens div.link div.youtube{
+			background-color: #0e0e0e;
+			text-decoration: none;
+			vertical-align: top;
+			margin: 40px;
+			padding-top: 10px;
+		}
+
+		div#content div.content div.liens div.link div.twitter{
+			background-color: #0e0e0e;
+			text-decoration: none;
+			vertical-align: top;
+			margin: 40px;
+			padding-top: 10px;
+		}
+
+		div#content div.content div.liens div.link div.github{
+			background-color: #0e0e0e;
+			text-decoration: none;
+			vertical-align: top;
+			margin: 40px;
+			padding-top: 10px;
+		}
+
+
+		div#content div.content div.liens div.link div.discord p.di{
+			color: #ffffff;
+			font-size: 35px;
+		}
+
+		div#content div.content div.liens div.link div.discord div.imgD img{
+			margin: 25px;
+		}
+
+		div#content div.content div.liens div.link div.youtube p.yo{
+			color: #ffffff;
+			font-size: 35px;
+		}
+
+		div#content div.content div.liens div.link div.youtube div.yolink img{
+			margin: 25px;
+		}
+
+		div#content div.content div.liens div.link div.twitter p.tw{
+			color: #ffffff;
+			font-size: 35px;
+		}
+
+		div#content div.content div.liens div.link div.twitter div.twlink img{
+			margin: 25px;
+		}
+
+		div#content div.content div.liens div.link div.github p.gi{
+			color: #ffffff;
+			font-size: 35px;
+		}
+
+		div#content div.content div.liens div.link div.github div.gilink img{
+			margin: 25px;
+		}
+
+
+
+
+
+
+		div#content div.content div.ad{
+			margin: 10px;
+			vertical-align: top;
+		}
+
+		div#content div.content div.ad, p.titlead{
+			margin: 20px;
+			color: #ffffff;
+			font-size: 40px;
+		}
+
+		div#content div.content div.ad div.adscript{
+			margin: 40px;
+			width: 740px;
+			background-color: #1C1C1C;
+		}
+
+
+		div#content div.content div.cont div.video{
+			background-color: #0e0e0e;
+			text-decoration: none;
+			vertical-align: top;
+			display: list-item;
+			margin: 40px;
+		}
+
+		div#content div.content div.cont div.video div{
+			background-color: #0e0e0e;
+			text-decoration: none;
+			vertical-align: top;
+			display: list-item;
+			margin: 25px;
+		}
+		div#content div.content div.cont div.video div a{
+			background-color: #0e0e0e;
+			text-decoration: none;
+			vertical-align: top;
+			display: list-item;
+			margin: 25px;
+		}
+
+		div#content div.content div.cont div.video img{
+			background-color: #0e0e0e;
+			text-decoration: none;
+			vertical-align: top;
+			display: inline-block;
+			margin: 25px;
+		}
+
+
+
+
+
+
+
+
+
+h2.liens{
+	color: #ffffff;
+	font-size: 60px;
+}
+
+img.drive{
+	padding-left: 50px;
+}
+
+ul.menu{
+	list-style-type: none;
+}
+
+img.menu{
+	padding-left: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+footer{
+	background-color: #000000;
+}
+p.footer{
+	color: #ffffff;
+	font-size: 20px;
+	padding-left: 15%;
+}
